@@ -4,7 +4,8 @@ Este projeto é destinado à análise de dados imobiliários fornecidos pelo Ban
 
 ## Utilização no Google Colab
 
-1. Certifique-se de ter acesso aos dados fornecidos pelo Banco Caixa.
+1. Certifique-se de ter acesso aos dados fornecidos pelo Banco Caixa. [este link]([https://www.exemplo.com](https://venda-imoveis.caixa.gov.br/sistema/download-lista.asp)).
+
 2. Faça o upload do conjunto de dados para a pasta `/content/data/` no ambiente do Colab.
 
 ```python
