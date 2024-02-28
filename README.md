@@ -11,12 +11,3 @@ Este projeto é destinado à análise de dados imobiliários fornecidos pelo Ban
 ```python
 # Instale as bibliotecas necessárias
 !pip install pandas matplotlib tabulate
-
-# Clone o repositório
-!git clone https://github.com/seu_usuario/seu_repositorio.git
-
-# Acesse o diretório do projeto
-%cd seu_repositorio
-
-# Execute o script de análise
-!python analise_imoveis.p
